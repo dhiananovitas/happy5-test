@@ -1,0 +1,20 @@
+{
+  "main.css": "/static/css/main.7e0387a8.chunk.css",
+  "main.js": "/static/js/main.935d169c.chunk.js",
+  "main.js.map": "/static/js/main.935d169c.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.0dd30093.chunk.js": "/static/js/2.0dd30093.chunk.js",
+  "static/js/2.0dd30093.chunk.js.map": "/static/js/2.0dd30093.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.a3054f91f17e2f07d67bd3aa70f698ef.js": "/precache-manifest.a3054f91f17e2f07d67bd3aa70f698ef.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.7e0387a8.chunk.css.map": "/static/css/main.7e0387a8.chunk.css.map",
+  "static/media/add.svg": "/static/media/add.84380c8d.svg",
+  "static/media/delete.svg": "/static/media/delete.de39050d.svg",
+  "static/media/edit.svg": "/static/media/edit.590c2b3c.svg",
+  "static/media/left.svg": "/static/media/left.5c3457ed.svg",
+  "static/media/meatball.svg": "/static/media/meatball.1141d504.svg",
+  "static/media/right.svg": "/static/media/right.251d2bb6.svg",
+  "static/media/weight.svg": "/static/media/weight.573f75b7.svg"
+}
